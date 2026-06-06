@@ -1,0 +1,15 @@
+# Environment variables — never commit credentials
+.env
+
+# Node
+node_modules/
+npm-debug.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
