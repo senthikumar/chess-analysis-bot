@@ -12,8 +12,16 @@ Player sends a photo of their scoresheet with caption `W` or `B` (the colour the
 
 **Bot replies (3 messages):**
 1. "Got your scoresheet! Analysing your game now..."
-2. Coaching report — opening, mistakes, what to study
-3. Board position images showing the two key mistake positions
+
+<img width="1257" height="826" alt="image" src="https://github.com/user-attachments/assets/4d704774-3fa9-4131-b8e0-c32575aa9514" />
+
+3. Coaching report — opening, mistakes, what to study
+
+<img width="1252" height="826" alt="image" src="https://github.com/user-attachments/assets/19ebb072-d7a9-4206-887a-91b0c6f53c8e" />
+
+5. Board position images showing the two key mistake positions
+
+<img width="1232" height="497" alt="image" src="https://github.com/user-attachments/assets/cdd8b18e-6011-4bac-a0d9-116a604bf21a" />
 
 ---
 
